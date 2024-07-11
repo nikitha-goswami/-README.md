@@ -13,8 +13,6 @@
 ![](https://github-profile-trophy.vercel.app/?username=nikitha-goswami&theme=monokai&no-frame=true&no-bg=false&margin-w=4)
 
 
-### 😂 Random Dev Meme
-<img src='https://memer-new.vercel.app/' style="height: 400px;"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=nikitha-goswami&icon=6&color=3)](https://visitcount.itsvg.in)
